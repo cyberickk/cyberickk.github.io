@@ -1,0 +1,44 @@
+html {
+	/* px pixels */
+	font-size: 10px
+	/* Google fonts CSS */
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Lora', serif;
+	font-family: 'Comic Neue', cursive;
+	font-family: 'Changa', sans-serif;
+	background-color:  #FEF0F7; 
+	
+}
+
+body {
+	
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+
+}
+
+
+h1 {
+	margin: 0;
+	padding: 20px 0;
+	color: #00539F;
+	font-size: 60px;
+	font-family: 'Comic Neue', cursive;
+	text-align: left;
+	text-shadow: 3px 5px 3px brown;
+
+
+}
+
+p,li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	width: 300px;
+}
+
